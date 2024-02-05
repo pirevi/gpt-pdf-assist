@@ -6,7 +6,6 @@ from langchain.vectorstores.faiss import FAISS
 from langchain_openai import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
-from langchain.prompts.chat import ChatPromptTemplate
 from htmlTemplates import css, user_template, bot_template
 
 def get_pdf_text(pdf_docs):

@@ -8,7 +8,7 @@ The web interface is made with Streamlit. You can upload multiple PDF files and 
 
 ### How to run?
 1. Create a file with name `.env` in the current directory.
-2. Enter a valid OpenAI API key with in the format `OPENAI_API_KEY=xYz`
+2. Enter a valid OpenAI API key with in the format `OPENAI_API_KEY=xYz` and keep it inside the `.env` file.
 3. Execute the app.py file using the command:
 ```python
 streamlit run app.py
