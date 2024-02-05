@@ -19,3 +19,7 @@ You will need the following dependencies to run this application.
 ```python
 pip install streamlit pypdf langchain faiss-cpu openai
 ```
+
+### Refrence
+The app was made by following the Youtube tutorial: [Chat with multiple PDFs](https://www.youtube.com/watch?v=dXxQ0LR-3Hg) - by Alejandro AO
+I have made my own modifications to the same.
